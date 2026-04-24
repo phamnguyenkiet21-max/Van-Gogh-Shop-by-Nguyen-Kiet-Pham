@@ -1,2 +1,1 @@
-# Van-Gogh-Shop-by-Nguyen-Kiet-Pham
-Van Gogh Shop by Nguyen Kiet Pham
+# Van_Gogh_Shop_Project_1_by_Nguyen_Kiet_Pham
